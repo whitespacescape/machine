@@ -1,0 +1,3 @@
+#include "../XYZTTZYX/XYZT/X1Y1Z1T1.c"
+#include "../XYZTTZYX/XYZT/X2Y2Z2T2.c"
+#include "../XYZTTZYX/XYZT/X3Y3Z3T3.c"

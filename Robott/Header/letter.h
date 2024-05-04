@@ -1,0 +1,5 @@
+#include "../crak/ijk.c"
+#include "../crak/lmn.c"
+#include "../crak/opq.c"
+#include "../crak/rst.c"
+#include "../crak/uvw.c"

@@ -1,6 +1,5 @@
 #define f
 #define h
-neverused()}
 int main(){
     char w;
     float t3, t4;

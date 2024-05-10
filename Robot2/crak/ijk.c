@@ -1,5 +1,5 @@
-void 'ijk'{
- int 't1'(){
+void ijk{
+ int t1(){
     int2_t
     'sin'(wx + i)
     int4_t
@@ -9,7 +9,7 @@ void 'ijk'{
     int16_t
     'cos'(wx - k)
 }
-int 't2'(){
+int t2(){
     int16_t
     'sin'(wx - i)
     int8_t

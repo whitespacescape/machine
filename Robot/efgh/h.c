@@ -1,4 +1,3 @@
-neverused()}
 void h(){
     case1:
     "inline//\\extern";

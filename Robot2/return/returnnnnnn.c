@@ -3,7 +3,7 @@
 #define uvw [u][v][w]
 #define xyz [x][y][z]
 int main(){
-   char wwww;
+    char wwww;
     float t9, t10;
     return [wwww,t9,t10]
 }

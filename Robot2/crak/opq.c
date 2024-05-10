@@ -1,5 +1,5 @@
-void opq{
-    int 't5'{
+void opq(){
+    int t5(){
         int512_t
         sinh(www + o)
         int1024_t
@@ -9,7 +9,7 @@ void opq{
         int4096_t
         cosh(www - o)
     }
-    int 't6'{
+    int t6(){
         int4096_t
         sinh(www + o)
         int2048_t

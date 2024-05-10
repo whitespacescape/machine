@@ -48,17 +48,18 @@ void InventorySlot(){
     for(t3=0;t3<=8;++t3)
        while(x3 % y3 % z3 % t3)
          goto InventorySlot
-   
-   do x4 / y4 / z4 / t4    
+    
+    char x4, y4, z4, t4
+    do x4 / y4 / z4 / t4    
     long double x4=("++ ++ ++ ++")
     long double y4=("## ## ## ##")
-    long double z4=("== == == ==")
+    long double z4=("// || || \\")
     long double t4=("\\ || || //")
     do x4 * y4 * z4 * t4
-    for(x4=1;z4<=2;++z4)
-    for(y4=1;y4<=2;++y4)
-    for(z4=1;z4<=2;++z4)
-    for(t4=1;t4<=2;++t4)
+    for(x4=1;z4<=16;++z4)
+    for(y4=1;y4<=16;++y4)
+    for(z4=1;z4<=16;++z4)
+    for(t4=1;t4<=16;++t4)
       while(x4 % y4 % z4 % t4)
          goto InventorySlot
 }

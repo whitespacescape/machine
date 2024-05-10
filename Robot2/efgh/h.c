@@ -1,4 +1,4 @@
-void 'h'(){
+void h(){
     'Missing Expresion';
     case1:
     "inline//\\extern";

@@ -2,9 +2,8 @@
 #define rst [r][s][t]
 #define uvw [u][v][w]
 #define xyz [x][y][z]
-neverused()}
 int main(){
-   char wwww;
+    char wwww;
     float t9, t10;
 }
 struct orbifold{

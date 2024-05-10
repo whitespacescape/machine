@@ -5,11 +5,11 @@ int main(){
     double ceil, floor;
     return [ceil,floor]
 }
-int 'cube'{
-    int 'cube' t5
-    int 'cube' t6
+int cube(){
+    int cube t5;
+    int cube t6;
 }
-void 'returnnnn'{
+void returnnnn(){
   return  e % ceil('ww' + t5) + g % floor('ww' - t6)
   return  e % ceil('ww' - t5) + g % floor('ww' +t6)
   return  e % ceil('ww' + t5) + g % floor('ww' - t6)

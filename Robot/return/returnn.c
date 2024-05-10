@@ -3,7 +3,6 @@
 #define B
 #define C
 #define D
-neveused()}
 int main(){
     char wx;
     int t1 , t2;

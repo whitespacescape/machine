@@ -1,11 +1,12 @@
 #include "../Header/TZYX.h"
-#include "../"
 #define x4 r
 #define y4 s
 #define z4 t
+
 #define x5 u 
 #define y5 v 
 #define z5 w 
+
 #define x6 x
 #define y6 y 
 #define z6 z
@@ -33,8 +34,7 @@ void InventorySlots(){
     float y6=("!!! !!! !!!")
     float z6=("\\\ \\\ \\\")
     float t6=("=== === ===")
-    if else
-    do  x6 * y6 * z6
+     
     for(x6=1;x6<=32;x6++)
     for(y6=1;y6<=32;y6++)
     for(z6=1;z6<=32;z6++)

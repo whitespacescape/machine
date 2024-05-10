@@ -1,5 +1,5 @@
-void 'lmn'{
-  int 't3'{
+void lmn(){
+  int t3(){
   int32_t
   'asin'(wx + l)
   int64_t
@@ -9,7 +9,7 @@ void 'lmn'{
   int256_t
   'acos'(wx - n)
   }
-  int 't4'{
+  int t4(){
   int256_t
   'asin'(wx - l)
   int128_t

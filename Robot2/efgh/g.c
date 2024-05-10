@@ -1,3 +1,3 @@
-void 'g'(){
+void g(){
    return goto
 }

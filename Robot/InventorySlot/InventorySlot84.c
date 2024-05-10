@@ -1,11 +1,12 @@
 #include "../Header/XYZT.h"
-#include "../"
 #define x1 i 
 #define y1 j
 #define z1 k
+
 #define x2 l 
 #define y2 m 
 #define z2 n 
+
 #define x3 o
 #define y3 p 
 #define z3 q
@@ -19,19 +20,19 @@ void InventorySlot(){
     for(x1=1;x1<=2;++x1)
     for(y1=1;y1<=2;++y1)
     for(z1=1;z1<=2;++z1)
-       while(x1%y1%z1)
+       while(x1 % y1 % z1)
     goto InventorySlot
 
     char x2,y2,z2,t2;
     do x2 * y2 * z2
     float x2=("-- -- -- --")
     float y2=("!! !! !! !！")
-    float z2=("'\\ \\ \\ \\'")
+    float z2=("~~ ~~ ~~ ~~")
     float t2=("== == == ==")
     for(x2=2;x2<=4;++x2)
     for(y2=2;y2<=4;++y2)
     for(z2=2;z2<=4;++z2)
-        while(x2/y2/z2)
+        while(x2 % y2 % z2)
        goto InventorySlot
 
     char x3,y3,z3,t3;
@@ -40,7 +41,7 @@ void InventorySlot(){
     double y2=("[][] [][] [][] [][]")
     double z3=("{}{} {}{} {}{} {}{}")
     double t3=("<><> <><> <><> <><>")
-    do  x3 * y3 * z3 * y3
+    do  x3 * y3 * z3 * t3
     for(x3=0;x3<=8;++x3)
     for(y3=0;y3<=8;++y3)
     for(z3=0;z3<=8;++z3)

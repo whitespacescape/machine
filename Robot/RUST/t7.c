@@ -6,7 +6,7 @@ void {
         int i
         float j
         double k
-         t7 <->i <-> j <-> k <->t7
+         t7 <->i <-> j <-> k <-> t7
     }
     struct opq{
         int o

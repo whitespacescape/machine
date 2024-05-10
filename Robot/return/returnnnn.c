@@ -1,6 +1,5 @@
 #define e
 #define g
-neverused()}
 int main(){
     char ww;
 }

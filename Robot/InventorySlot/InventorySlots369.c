@@ -92,8 +92,8 @@ void InventorySlots(){
     unsigned long int t8 = ("ABCD || DCBA")
     for (t5 = 0; -32 <= t5<= 32; t5++)
     for (t6 = 0; -64 <= t6 <= 64; t6--)
-    for (t7 = 0; -128 <= t7 <= 128; t7-- || t3++)
-    for (t8 = 0; -256 <= t8 <=256; t8++ || t4--)
+    for (t7 = 0; -128 <= t7 <= 128; t7-- || t7++)
+    for (t8 = 0; -256 <= t8 <=256; t8++ || t8--)
     while (t5 % t6 % t7 % t8)
        goto InventorySlots
 
